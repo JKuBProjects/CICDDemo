@@ -1,0 +1,19 @@
+{
+  "name": "cicdtestdemo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo project for CICD with Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaykumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "^6.1.6"
+  }
+}
